@@ -4,6 +4,8 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+This version is customized and maintained by [John Ampong](https://jampong-94.github.io).  
+Feel free to [fork my site](https://github.com/Jampong-94/Jampong-94.github.io) as a starting point for your own academic website.
 # Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
