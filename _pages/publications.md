@@ -9,19 +9,6 @@ author_profile: true
 - **Media Coverage:** <a href="https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/" style="color:#0000FF;"><strong><em>The Columbia Law School Blue Sky Blog</em></strong></a> *(June 10, 2025)*  
 - **Conferences and Seminars:** Southern Finance Conference *(2025 schedule)*
 
-[**Can a Shareholder Focus Create Value for all Stakeholders?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625) (with Matthew Souther)  
-- **Media Coverage:** [<span style="color:#0000FF;"><em>**The Columbia Law School Blue Sky Blog**</em></u></span>](https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/) *(June 10, 2025)*  
-- **Conferences and Seminars:** Southern Finance Conference *(2025 schedule)*
-
-[**Can a Shareholder Focus Create Value for all Stakeholders?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625) (with Matthew Souther)  
-- **Media Coverage:** [<span style="color:#0000FF;"><u><strong><em>The Columbia Law School Blue Sky Blog</em></strong></u></span>](https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/) *(June 10, 2025)*  
-- **Conferences and Seminars:** Southern Finance Conference *(2025 schedule)*
-
-[**Can a Shareholder Focus Create Value for all Stakeholders?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625) (with Matthew Souther)  
-- **Media Coverage:** [*The Columbia Law School Blue Sky Blog*](https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/) *(June 10, 2025)*  
-- **Conferences and Seminars:** Southern Finance Conference *(2025 schedule)*
-
-
 [<span style="color: #0B0719;">**Insufficient Sleep and Intra-Day Financial Decision-Making**</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535348) (sole-authored) 
 - Revise and Resubmit at <span style="color: #0000FF;">**_<u>Management Science</u>_**</span>
 - **Conferences and Seminars:** FIRS (2023), Cambridge Centre for Alternative Finance (2023), NFA (2023), FMA (2023), Australasian Finance and Banking Conference (2023), SFA (2023), Boca Corporate Finance and Governance Conference (2023), University of South Carolina (2022)
