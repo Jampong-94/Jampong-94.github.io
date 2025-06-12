@@ -8,10 +8,10 @@ author_profile: true
 ### 2025 
 - Reviewer, Southern Finance Association (SFA)
 - Brown Bag Coordinator, Darla Moore, Finance Department
-- 
+  
 ### 2024 
 - Ph.D. students recruitment assistant, Darla Moore, Finance Department
-- 
+  
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2024 
