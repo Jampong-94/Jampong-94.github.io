@@ -8,6 +8,11 @@ author_profile: true
 [**Can a Shareholder Focus Create Value for all Stakeholders?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625) (with Matthew Souther)  
 - **Media Coverage:** <a href="https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/" style="color:#0000FF;"><strong><em>The Columbia Law School Blue Sky Blog</em></strong></a> *(June 10, 2025)*  
 - **Conferences and Seminars:** Southern Finance Conference *(2025 schedule)*
+  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625" style="color:#0000FF;"><strong>Can a Shareholder Focus Create Value for all Stakeholders?</strong></a> (with Matthew Souther)  
+- **Media Coverage:** <a href="https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/" style="color:#0000FF;"><strong><em>The Columbia Law School Blue Sky Blog</em></strong></a> *(June 10, 2025)*  
+- **Conferences and Seminars:** Southern Finance Conference *(2025 schedule)*
+
 
 [<span style="color: #0B0719;">**Insufficient Sleep and Intra-Day Financial Decision-Making**</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535348) (sole-authored) 
 - Revise and Resubmit at <span style="color: #0000FF;">**_<u>Management Science</u>_**</span>
