@@ -8,7 +8,7 @@ author_profile: true
 
 
 [**Can a Shareholder Focus Create Value for all Stakeholders?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625) (with Matthew Souther)  
-- **Media Coverage:** [<span style="color:#0000FF;"><u><em>**Columbia Law School Blog**</em></u></span>](https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/)  
+- **Media Coverage:** [<span style="color:#0000FF;"><u><em>**The Columbia Law School Blue Sky Blog (6/10/2025)**</em></u></span>](https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/)  
 - **Conferences and Seminars:** Southern Finance Conference (2025 schedule)
 
 
