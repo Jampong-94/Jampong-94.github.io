@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## **<u>Working Papers</u>** 
 
-[<span style="color: #0B0719;">**Personal Financial Distress and Litigious Behavior**</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760919) (sole-authored) (JMP) 
-- Revise and Resubmit at <span style="color: #0000FF;">**_<u>Review of Financial Studies</u>_**</span>
-- **Conferences and Seminars:** CEPR European Household Finance (Cyprus)
+[<span style="color: #0B0719;">**Can a Shareholder Focus Create Value for all Stakeholders?**</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625) (with Matthew Souther) 
+- Media Coverage <span style="color: #0000FF;">**_<u>Columbia Law School Blog</u>_**</span>(https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/)
+- **Conferences and Seminars:** Southern Finance Conference(2025 schedule)
   
 [<span style="color: #0B0719;">**Insufficient Sleep and Intra-Day Financial Decision-Making**</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535348) (sole-authored) 
 - Revise and Resubmit at <span style="color: #0000FF;">**_<u>Management Science</u>_**</span>
