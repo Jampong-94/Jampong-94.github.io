@@ -14,7 +14,7 @@ author_profile: true
 
 ## **<u>Work in Progress</u>** 
   
-<span style="color: #0000FF;">**Selective Attention: Do Mutual Fund Incentives Affect their Voting?**</span> (sole-authored)
+<span style="color: #0000FF;">**Selective Attention: Do Mutual Fund Incentives Affect their Voting?**</span> (with Matthew Souther)
 - **Conferences and Seminars:** Global Finance Conference *(2025 schedule)*
 - **Awards:** First Year Paper Award (Grant)
 - *Preliminary results documented*
