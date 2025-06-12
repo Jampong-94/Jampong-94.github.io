@@ -1,3 +1,5 @@
+[📄 Download my CV (PDF)](/files/John_Ampong_CV.pdf)
+
 ---
 layout: archive
 title: "CV"
