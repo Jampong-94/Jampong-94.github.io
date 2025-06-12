@@ -3,9 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
----
 
-<!--
 ## University of South Carolina
 
 ### Primary Instructor:
@@ -33,4 +31,4 @@ author_profile: true
 - *"Reminds students about deadlines, super helpful when helping with homework, explains clearly"*
 - *"Very thorough and easy to talk to"*
 - *"He's willing to help anyone at any time. He understands the material and finance in general."*
----
+
