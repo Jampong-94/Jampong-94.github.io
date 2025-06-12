@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
----
+<!--
 ## University of South Carolina
 
 ### Primary Instructor:
