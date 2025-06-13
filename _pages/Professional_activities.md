@@ -15,7 +15,6 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2025
-- Financial Management Association Annual Meeting 
 - Southern Finance Association Annual Meeting (Scheduled)
 - Global Finance Conference
   
