@@ -142,6 +142,12 @@ social:
 #    tracking_id          :G-37HWSMJFPC
 
 
+analytics:
+  provider: "google-analytics-4"
+  google:
+    tracking_id: G-PYGTT39GYS
+
+
 # Reading Files
 include:
   - .htaccess
