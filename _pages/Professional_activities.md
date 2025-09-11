@@ -16,7 +16,7 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2025
-- 2025 AI & FinTech Conference, Georgia State University(GSU) (Scheduled)
+- 2025 AI & FinTech Conference, Georgia State University(GSU)* (Scheduled)
 - Financial Management Association(FMA) Vancouver, Canada  (Scheduled)
 - Southern Finance Association Annual Meeting (Scheduled)
 - Global Finance Conference
