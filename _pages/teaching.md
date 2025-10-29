@@ -13,7 +13,7 @@ author_profile: true
 
 ### Teaching Assistant:
 
-- Investment Analysis and Portfolio Management, FINA 470 (Fall 2023 and 2024)
+- Investment Analysis and Portfolio Management, FINA 469 (Fall 2023 and 2024)
   - *Instructor: Prof. Da Ke*
 - Financial Statement Analysis, FINA 470,  (Fall 2022)
   - *Instructor: Prof. Austin Starkweather*
