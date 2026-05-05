@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Service 
 ### 2025 
-- Brown Bag Coordinator, Darla Moore, Finance Department
+- Brown Bag Coordinator, Darla Moore School of Business, Finance Department
 - Reviewer, Eastern Finance Association (EFA)
 - Reviewer, Southern Finance Association (SFA)
 
@@ -19,7 +19,7 @@ author_profile: true
 ### 2025
 - Georgia State - Management Science AI & FinTech Conference (2025)
 - Financial Management Association(FMA) Vancouver, Canada   (2025) × 2 papers
-- Southern Finance Association Annual Meeting (2025) × 2 papers
+- Southern Finance Association(SFA) Annual Meeting (2025) × 2 papers
 - Global Finance Conference (2025)
   
 ### 2024 
