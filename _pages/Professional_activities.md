@@ -17,7 +17,7 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2025
-- Georgia State **Management Science** AI \& FinTech Conference (2025)
+- Georgia State - Management Science AI & FinTech Conference (2025)
 - Financial Management Association(FMA) Vancouver, Canada   (2025) × 2 papers
 - Southern Finance Association Annual Meeting (2025) × 2 papers
 - Global Finance Conference (2025)
