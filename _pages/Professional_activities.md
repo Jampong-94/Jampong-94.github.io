@@ -16,6 +16,9 @@ author_profile: true
   
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
+### 2026
+- Brownbag Presentation - University of South Carolina
+  
 ### 2025
 - Georgia State - Management Science AI & FinTech Conference (2025)
 - Financial Management Association(FMA) Vancouver, Canada   (2025) × 2 papers
