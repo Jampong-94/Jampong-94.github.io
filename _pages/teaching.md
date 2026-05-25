@@ -19,3 +19,12 @@ author_profile: true
   - *Instructor: Prof. Austin Starkweather*
 
 
+###  Comments from Students:
+
+- He was the nicest person ever and cared so much about our learning.
+- The interactive nature of instruction had the greatest impact.
+- He did a great job at giving us the tools to succeed in the class and explained every chapter very well. Great teacher overall.
+- John is a very excited and engaged professor, I can tell he wants his students to succeed and that motivated me to want to learn.
+- Really liked how interactive the course was
+- Best finance teacher there is give him his promotion/full time position ASAP!!
+  
