@@ -17,6 +17,7 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2026
+- RCF-ECGI Corporate Finance and Governance Conference (scheduled)
 - Brownbag Presentation - University of South Carolina
   
 ### 2025
