@@ -17,7 +17,7 @@ author_profile: true
 ## **<u>Work in Progress</u>** 
 
 <span style="color: #0000FF;">**Changing the Subject: How Managerial Attention Reallocation Obscures Bad News**</span> (sole-authored)
-- **Seminars:** Brownbag Seminar, University of South Carolina *(2026)*
+- **Seminars:** AI in Finance Conference *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
 
 <span style="color: #0000FF;">**Tax Salience: Evidence from Corporate Call Transcripts**</span> (with Jason DeBacker)
 
