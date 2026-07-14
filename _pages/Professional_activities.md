@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Service 
 ### 2026 
-- AI Bootcamp for New PhD students, Darla Moore School of Business, Finance Department
+- AI Bootcamp for New PhD Students, Darla Moore School of Business, Finance Department
   
 ### 2025 
 - Brown Bag Coordinator, Darla Moore School of Business, Finance Department
