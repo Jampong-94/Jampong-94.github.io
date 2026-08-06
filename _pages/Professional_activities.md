@@ -12,6 +12,8 @@ author_profile: true
 - Brown Bag Coordinator, Darla Moore School of Business, Finance Department
 - Reviewer, Eastern Finance Association (EFA)
 - Reviewer, Southern Finance Association (SFA)
+- FMA session chair and discussant
+- SFA discussant
 
   
 ### 2024 
