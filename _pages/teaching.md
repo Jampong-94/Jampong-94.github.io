@@ -8,7 +8,8 @@ author_profile: true
 
 ### Primary Instructor:
 
-- Corporate Financial Analysis, FINA 365, (Fall 2025)
+- Corporate Finance, FINA 365, (Fall 2025)
+- AI Bootcamp for PhD Students
   
 
 ### Teaching Assistant:
