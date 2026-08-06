@@ -16,7 +16,7 @@ author_profile: true
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908707" style="color:#0000FF;"><strong>The Paycheck Protection Program (PPP) from the Small Business Perspective: Did the PPP Help Alleviate Financial and Economic Constraints?</strong></a> (with Allen N. Berger, Paul G. Freed, Zheyu Qi, Jonathan A. Scott, and Siwen Zhang)   
 - **Conferences and Seminars:** Southern Finance Association(2022)*, Financial Management Association(2022)*, Temple University*, University of South Carolina*
-- **R&R:** Journal of Banking and Finance
+- **Revise & Resubmit:** *Journal of Banking and Finance*
   
 ## **<u>Work in Progress</u>** 
 
