@@ -8,7 +8,7 @@ author_profile: true
 
 ### Primary Instructor:
 
-- Corporate Finance, FINA 365- Fall 2025 (Evaluations: 4.5/5.0))
+- Corporate Finance, FINA 365- Fall 2025 (Evaluations: 4.5/5.0)
 - AI Bootcamp for New PhD Students
   
 
