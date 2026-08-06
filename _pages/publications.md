@@ -19,6 +19,5 @@ author_profile: true
 <span style="color: #0000FF;">**Changing the Subject: How Managerial Attention Reallocation Obscures Bad News**</span> (sole-authored)
 - **Seminars:** AI in Finance Conference *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
 
-<span style="color: #0000FF;">**Managerial Tax Attention and Corporate Tax Outcomes**</span> (with Jason DeBacker)
-
-  
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
+- **Seminars:** 119th Annual Conference on Taxation *(scheduled)*
