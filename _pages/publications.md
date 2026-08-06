@@ -14,11 +14,15 @@ author_profile: true
 - **Conferences and Seminars:** Financial Management Association Conference, Vancouver *(2025)*, Southern Finance Association *(2025)*, Global Finance Conference *(2025)*
 - **Awards:** First Year Paper Award (Grant)
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908707" style="color:#0000FF;"><strong>The Paycheck Protection Program (PPP) from the Small Business Perspective: Did the PPP Help Alleviate Financial and Economic Constraints?</strong></a> (with Allen N. Berger, Paul G. Freed, Zheyu Qi, Jonathan A. Scott, and Siwen Zhang)   
+- **Conferences and Seminars:** Southern Finance Association(2022)*, Financial Management Association(2022)*, Temple University*, University of South Carolina*
+- - **R&R:** Journal of Banking and Finance
+  
 ## **<u>Work in Progress</u>** 
 
 <span style="color: #0000FF;">**Changing the Subject: How Managerial Attention Reallocation Obscures Bad News**</span> (sole-authored)
 - **Seminars:** AI in Finance Conference *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
-- **Seminars:** 119th Annual Conference on Taxation *(scheduled)*
+- **Seminars:** 119th Annual Conference on Taxation *(scheduled)* 
  
