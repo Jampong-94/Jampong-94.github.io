@@ -9,7 +9,7 @@ author_profile: true
 ### Primary Instructor:
 
 - Corporate Finance, FINA 365, (Fall 2025)
-- AI Bootcamp for PhD Students
+- AI Bootcamp for New PhD Students
   
 
 ### Teaching Assistant:
