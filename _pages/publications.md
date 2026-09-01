@@ -34,7 +34,7 @@ author_profile: true
 - **Awards:** First Year Paper Award (Grant)
 
 <details>
-  <summary style="color:#5F6368;"><strong>View abstract</strong></summary>
+  <summary style="color:#2C4F70;"><strong>View abstract</strong></summary>
   <p><em>
     In a sample of ballot items for which proxy advisor recommendations oppose management, we find that the likelihood of a mutual fund actively voting (deviating from proxy advisor recommendations) is significantly higher when the fund has larger monetary incentives tied to the portfolio holding. To address endogenous portfolio selection issues, we find the same result in a sample of passive index funds for which portfolio allocations are exogenous. Firms that are more commonly held by less incentivized funds have lower CEO delta and lower CEO turnover-performance sensitivity.
   </em></p>
@@ -44,7 +44,7 @@ author_profile: true
 - **Conferences and Seminars:** 119th Annual Conference on Taxation *(scheduled)*
 
 <details>
-  <summary style="color:#5F6368;"><strong>View abstract</strong></summary>
+  <summary style="color:#3B6E8F;"><strong>View abstract</strong></summary>
   <p><em>
     We construct a measure of corporate tax attention from the text of quarterly earnings calls for U.S. public firms over 2007 to 2023 using an unsupervised topic model. The measure captures within-firm deviations in the attention corporate executives pay to tax related issues from the firm's own historical same-quarter baseline. We find that elevated tax attention predicts lower cash effective tax rates over horizons of up to three years and generates positive announcement returns. A triple difference-in-differences design exploiting the Tax Cuts and Jobs Act of 2017 shows that firms with high pre-reform tax attention and high effective tax rates captured the largest post-reform reductions in effective tax rates. Analysts revise earnings forecasts upward and  realized earnings subsequently exceed their revised forecasts, consistent with partial incorporation of a signal that is available but costly to extract.
   </em></p>
@@ -54,8 +54,8 @@ author_profile: true
 - **Conferences and Seminars:** Southern Finance Association(2022)*, Financial Management Association(2022)*, Temple University*, University of South Carolina*
 - **Revise & Resubmit:** *Journal of Banking and Finance*
 
-  <details>
-  <summary style="color:#5F6368;"><strong>View abstract</strong></summary>
+<details>
+  <summary style="color:#59636E;"><strong>View abstract</strong></summary>
   <p><em>
     We employ two novel datasets to evaluate whether the Paycheck Protection Program (PPP) met short- term and longer-term goals. One dataset matches PPP with small business members of the National Federation of Business (NFIB) that report their financial constraints and their employees’ economic constraints. We find more alleviation of both constraints for PPP recipients, consistent with short-term goals. We employ data on post- versus pre-crisis county employment, wages, and new businesses to test the longer-term goal of improved community crisis recoveries from the short-term constraint relief. We find to the contrary – worse longer-term recoveries in counties with more short-term constraint relief.
   </em></p>
