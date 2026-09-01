@@ -12,6 +12,7 @@ author_profile: true
     I propose a measure of managerial attention reallocation from a manager's own historical baseline, constructed using BERTopic applied to earnings call transcripts from 2007 to 2023. I find that unusual attention reallocation predicts negative abnormal returns, elevated crash risk over horizons up to two years, persistently lower long-run returns, greater analyst forecast dispersion, and elevated options market jump risk. It further predicts a significant rise in bad-news mandatory disclosures and adverse incidents in subsequent months. Markets and analysts consistently fail to extract this signal at the time of the call, suggesting that the structure of managerial attention allocation embeds information about deteriorating fundamentals that investors do not fully price.
   </em></p>
 </details>
+
 - **Seminars:** AI in Finance Conference *(scheduled)*, Financial Management Association Consortium *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
 
 
