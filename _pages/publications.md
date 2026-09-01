@@ -28,3 +28,9 @@ author_profile: true
 - **Revise & Resubmit:** *Journal of Banking and Finance*
   
 
+## **<u>Work in Progress</u>**   
+<span style="color: #0000FF;">**Corporate Risk Saliency**</span> (with Solo)
+<span style="color: #0000FF;">**Who Submit Shareholder Proposals and Why?**</span> (with Matthew Souther)
+
+<span style="color: #0000FF;">**Who Do You Trust?: Evidence from Mutual Fund Managers Allocation Decision**</span> (with Omrane Guedhami and Sadok El Ghoul)
+
