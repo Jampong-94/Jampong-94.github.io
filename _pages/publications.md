@@ -16,6 +16,9 @@ author_profile: true
 - **Conferences and Seminars:** RCF-ECGI Corporate Finance and Governance Conference *(scheduled)*, 2025 Georgia State Management Science AI & FinTech Conference *(2025)*, Financial Management Association Conference, Vancouver *(2025)*, Southern Finance Association *(2025)*
 - **Awards:** Best Paper Award (Darla Moore School Business)
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
+- **Seminars:** 119th Annual Conference on Taxation *(scheduled)*
+
 <span style="color: #0000FF;">**Selective Attention: Do Mutual Fund Incentives Affect their Voting?**</span> (with Matthew Souther)
 - **Conferences and Seminars:** Financial Management Association Conference, Vancouver *(2025)*, Southern Finance Association *(2025)*, Global Finance Conference *(2025)*
 - **Awards:** First Year Paper Award (Grant)
@@ -25,8 +28,3 @@ author_profile: true
 - **Revise & Resubmit:** *Journal of Banking and Finance*
   
 
-
- ## **<u>Work in Progress</u>** 
-
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
-- **Seminars:** 119th Annual Conference on Taxation *(scheduled)*
