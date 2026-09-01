@@ -29,7 +29,8 @@ author_profile: true
 
 
 
-<span style="color: #0000FF;">**Selective Attention: Do Mutual Fund Incentives Affect their Voting?**</span> (with Matthew Souther)
+
+<a href="https://jampong-94.github.io/files/Ampong_Souther_Selective_Attention.pdf" style="color:#0000FF;"><strong>Selective Attention: Do Mutual Fund Incentives Affect their Voting?</strong></a> (with Matthew Souther)
 - **Conferences and Seminars:** Financial Management Association Conference, Vancouver *(2025)*, Southern Finance Association *(2025)*, Global Finance Conference *(2025)*
 - **Awards:** First Year Paper Award (Grant)
 
