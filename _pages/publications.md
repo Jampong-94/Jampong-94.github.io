@@ -29,7 +29,7 @@ author_profile: true
   
 
 ## **<u>Work in Progress</u>**   
-<span style="color: #0000FF;">**Corporate Risk Saliency**</span> (with Solo)
+<span style="color: #0000FF;">**Corporate Risk Saliency**</span> (sole-authored)
 
 <span style="color: #0000FF;">**Who Submit Shareholder Proposals and Why?**</span> (with Choonsik Lee and Matthew Souther)
 
