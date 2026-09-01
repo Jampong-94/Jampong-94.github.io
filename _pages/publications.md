@@ -4,6 +4,12 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+ ## **<u>Job Market Paper</u>** 
+
+<a href="https://jampong-94.github.io/files/Ampong_JMP_Changing_the_Subject.pdf" style="color:#0000FF;"><strong>Changing the Subject: How Managerial Attention Reallocation Obscures Bad News</strong></a> (sole-authored)
+- **Seminars:** AI in Finance Conference *(scheduled)*, Financial Management Association Consortium *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
+
+
 ## **<u>Working Papers</u>**   
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219625" style="color:#0000FF;"><strong>Can a Shareholder Focus Create Value for all Stakeholders?</strong></a> (with Matthew Souther)  
 - **Media Coverage:** <a href="https://clsbluesky.law.columbia.edu/2025/06/10/can-a-shareholder-focus-create-value-for-all-stakeholders/" style="color:#0000FF;"><strong><em>The Columbia Law School Blue Sky Blog</em></strong></a> *(June 10, 2025)*  
@@ -21,9 +27,6 @@ author_profile: true
 
 
  ## **<u>Work in Progress</u>** 
-
-<a href="https://jampong-94.github.io/files/Ampong_JMP_Changing_the_Subject.pdf" style="color:#0000FF;"><strong>Changing the Subject: How Managerial Attention Reallocation Obscures Bad News</strong></a> (sole-authored)
-- **Seminars:** AI in Finance Conference *(scheduled)*, Financial Management Association Consortium *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
 - **Seminars:** 119th Annual Conference on Taxation *(scheduled)*
