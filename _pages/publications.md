@@ -18,11 +18,12 @@ author_profile: true
 - **Conferences and Seminars:** Southern Finance Association(2022)*, Financial Management Association(2022)*, Temple University*, University of South Carolina*
 - **Revise & Resubmit:** *Journal of Banking and Finance*
   
-## **<u>Work in Progress</u>** 
 
-<span style="color: #0000FF;">**Changing the Subject: How Managerial Attention Reallocation Obscures Bad News**</span> (sole-authored)
+
+ ## **<u>Work in Progress</u>** 
+
+<a href="https://jampong-94.github.io/files/Ampong_JMP_Changing_the_Subject.pdf" style="color:#0000FF;"><strong>Changing the Subject: How Managerial Attention Reallocation Obscures Bad News</strong></a> (sole-authored)
 - **Seminars:** AI in Finance Conference *(scheduled)*, Financial Management Association Consortium *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
-- **Seminars:** 119th Annual Conference on Taxation *(scheduled)* 
- 
+- **Seminars:** 119th Annual Conference on Taxation *(scheduled)*
