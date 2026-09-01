@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **<u>Job Market Paper</u>**  
 <a href="https://jampong-94.github.io/files/Ampong_JMP_Changing_the_Subject.pdf" style="color:#0000FF;"><strong>Changing the Subject: How Managerial Attention Reallocation Obscures Bad News</strong></a> (sole-authored)
-- **Seminars:** AI in Finance Conference *(scheduled)*, Financial Management Association Consortium *(scheduled)*, Brownbag Seminar, University of South Carolina *(2026)*
+- **Seminars:** AI in Finance Conference *(scheduled)*, Financial Management Association Consortium *(scheduled)*, Brown Bag Seminar, University of South Carolina *(2026)*
 <details>
   <summary style="color:#2C4F70;"><strong>View abstract</strong></summary>
   <p><em>
