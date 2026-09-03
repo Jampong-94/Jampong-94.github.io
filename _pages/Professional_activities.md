@@ -22,8 +22,9 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2026
-- AI in Finance Conference (scheduled)
+- 3rd AI in Finance Conference (scheduled)
 - RCF-ECGI Corporate Finance and Governance Conference (scheduled)
+- Financial Management Association Consortium (scheduled)
 - Brownbag Presentation - University of South Carolina
   
 ### 2025
