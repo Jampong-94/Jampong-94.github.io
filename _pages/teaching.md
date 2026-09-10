@@ -27,5 +27,6 @@ author_profile: true
 - He did a great job at giving us the tools to succeed in the class and explained every chapter very well. Great teacher overall.
 - John is a very excited and engaged professor, I can tell he wants his students to succeed and that motivated me to want to learn.
 - Really liked how interactive the course was
+- He is very friendly and easy to talk to, only class I have ever been comfortable to speak in.
 - Best finance teacher there is give him his promotion/full time position ASAP!!
   
