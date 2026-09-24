@@ -42,7 +42,7 @@ author_profile: true
 </details>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
-- **Conferences and Seminars:** 119th Annual Conference on Taxation *(scheduled)*
+- **Conferences and Seminars:**  36th Annual Conference on Financial Economics and Accounting (CFEA) *(scheduled)*, 119th Annual Conference on Taxation *(scheduled)*
 
 <details>
   <summary style="color:#5F6368;"><strong>View abstract</strong></summary>
