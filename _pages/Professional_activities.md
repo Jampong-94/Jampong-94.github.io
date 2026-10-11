@@ -23,11 +23,11 @@ author_profile: true
 
 ### 2026
 - 3rd AI in Finance Conference (scheduled)
-- RCF-ECGI Corporate Finance and Governance Conference (scheduled)
 - 36th Annual Conference on Financial Economics and Accounting (scheduled)
 - 3rd Annual Boca Finance and Real Estate Conference (scheduled)
 - Financial Management Association Consortium (scheduled)
 - 119th Annual Conference on Taxation* (scheduled)
+- RCF-ECGI Corporate Finance and Governance Conference (2026)
 - Brownbag Presentation - University of South Carolina
   
 ### 2025
