@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Service 
 ### 2026 
+- Reviewer, Journal of Behavioral and Experimental Finance
 - AI Bootcamp for New PhD Students, Darla Moore School of Business
   
 ### 2025 
@@ -22,11 +23,11 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2026
-- 3rd AI in Finance Conference (scheduled)
 - 36th Annual Conference on Financial Economics and Accounting (scheduled)
 - 3rd Annual Boca Finance and Real Estate Conference (scheduled)
-- Financial Management Association Consortium (scheduled)
 - 119th Annual Conference on Taxation* (scheduled)
+- 3rd AI in Finance Conference (2026)
+- Financial Management Association Consortium (2026)
 - RCF-ECGI Corporate Finance and Governance Conference (2026)
 - Brownbag Presentation - University of South Carolina
   
