@@ -24,6 +24,7 @@ author_profile: true
 
 ### 2026
 - 36th Annual Conference on Financial Economics and Accounting (scheduled)
+- ABFR Doctoral Research Symposium (2026 scheduled)
 - 3rd Annual Boca Finance and Real Estate Conference (scheduled)
 - 119th Annual Conference on Taxation* (scheduled)
 - 3rd AI in Finance Conference (2026)
