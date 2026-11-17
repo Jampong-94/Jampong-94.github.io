@@ -23,10 +23,10 @@ author_profile: true
 ## Presentations and Seminars (* Indicates presentation by coauthor)
 
 ### 2026
-- 36th Annual Conference on Financial Economics and Accounting (scheduled)
-- ABFR Doctoral Research Symposium (2026 scheduled)
-- 3rd Annual Boca Finance and Real Estate Conference (scheduled)
-- 119th Annual Conference on Taxation* (scheduled)
+- 36th Annual Conference on Financial Economics and Accounting (2026)
+- AI & Big Data in Finance Research Forum (ABFR) (2026)
+- 3rd Annual Boca Finance and Real Estate Conference (2026)
+- 119th Annual Conference on Taxation* (2026)
 - 3rd AI in Finance Conference (2026)
 - Financial Management Association Consortium (2026)
 - RCF-ECGI Corporate Finance and Governance Conference (2026)
