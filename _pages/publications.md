@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **<u>Job Market Paper</u>**  
 <a href="https://jampong-94.github.io/files/Ampong_JMP_Changing_the_Subject.pdf" style="color:#0000FF;"><strong>Changing the Subject: How Managerial Attention Reallocation Obscures Bad News</strong></a> (sole-authored)
-- **Seminars:** 3rd AI in Finance Conference *(2026)*, Financial Management Association Consortium *(2026)*,  ABFR Doctoral Research Symposium *(scheduled)*, 3rd Annual Boca Finance and Real Estate Conference *(scheduled)*, Brown Bag Seminar, University of South Carolina *(2026)*
+- **Seminars:** 3rd AI in Finance Conference *(2026)*,  AI \& Big Data in Finance Research Forum (ABFR) *(scheduled)*, Financial Management Association Consortium *(2026)*, 3rd Annual Boca Finance and Real Estate Conference *(2026)*, Brown Bag Seminar, University of South Carolina *(2026)*
 <details>
   <summary style="color:#5F6368;"><strong>View abstract</strong></summary>
   <p><em>
@@ -42,7 +42,7 @@ author_profile: true
 </details>
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187738" style="color:#0000FF;"><strong>Managerial Tax Attention and Corporate Tax Outcomes</strong></a> (with Jason DeBacker) 
-- **Conferences and Seminars:**  36th Annual Conference on Financial Economics and Accounting *(scheduled)*, 119th Annual Conference on Taxation *(scheduled)*
+- **Conferences and Seminars:**  36th Annual Conference on Financial Economics and Accounting *(scheduled)*, 119th Annual Conference on Taxation *(2026)*
 
 <details>
   <summary style="color:#5F6368;"><strong>View abstract</strong></summary>
